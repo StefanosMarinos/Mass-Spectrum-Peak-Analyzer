@@ -4,12 +4,17 @@ MS CODE USE INSTRUCTIONS
 •	Copy and paste the entire code from the txt file that I give you with the name “ms code” to the compiler. Make sure the first line of code is the number 1 line, so you have to delete the initial lines that say : 
 --------------------
 1 # Online Python compiler (interpreter) to run Python online.
+
 2# Write Python 3 code in this online editor and run it.
-3 print("Try programiz.pro")
+
+3# print("Try programiz.pro")
 •	Press run to run the code in the compiler
 •	6 choices show up. To make a choice type its number next to Choice and press enter 
+
 •	1st choice (find C H O ) this one gives you the possible numbers of carbon, hydrogen and oxygen that can make up the given m/z. After choosing option 1 give the m/z and press enter. It will tell you the possible combinations that give that peak or it will tell you no possible combinations. (* more about this later)
+
 •	2nd choice (find number of C atoms) this calculates the number of carbon atoms from the M and M+1 peaks intensities. You type in the intensities of each peak and press enter each time. Then it tells you the result
+
 •	3rd choice , 4th choice and 5th choice do the same with more atoms. 
 
 If you want to have another combination of atoms you can ask me to adjust the code to make another combination
